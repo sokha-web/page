@@ -1,0 +1,70 @@
+.logo{
+	float: left;
+	margin-left: 97px;
+}
+.li1{
+	color: #3D58A6;
+	font-family: 'Poppins', sans-serif;
+	float: left;
+	margin-top: 22px;
+	margin-left: 103px;
+	margin-right: 31px;
+	font-size: 24px;
+}
+.li2{
+	color: #3D58A6;
+	font-family: 'Poppins', sans-serif;
+	float: left;
+	margin-top: 22px;
+	margin-right: 31px;
+	font-size: 24px;
+}
+.li3{
+	color: #3D58A6;
+	font-family: 'Poppins', sans-serif;
+	float: left;
+	margin-top: 22px;
+	margin-right: 31px;
+	font-size: 24px;
+}
+.li4{
+	color: #3D58A6;
+	font-family: 'Poppins', sans-serif;
+	float: left;
+	margin-top: 22px;
+	margin-right: 31px;
+	font-size: 24px;
+}
+.nav{
+	margin-top: 20px;
+	width: 1663px;
+	height: 100px;
+}
+.logo1{
+	margin-left: 155px;
+	margin-right: 15px;
+	margin-top: 10px;
+}
+.logo2{
+	margin-left: 35px;
+	margin-right: 35px;
+	margin-top: 10px;
+}
+.logo3{
+	margin-left: 35px;
+	margin-right: 35px;
+	margin-top: 10px;
+}
+.logo4{
+	margin-left: 35px;
+	margin-right: 35px;
+	margin-top:10px;
+}
+.line{
+	margin-top: 15px;
+}
+.wraper{
+	width: 1663px;
+	height: 822px;
+	background-color: #BDCCD4;
+}
